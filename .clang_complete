@@ -1,0 +1,4 @@
+-IC:/MinGW/include
+-IC:/MinGW/lib
+-IC:/MinGW/lib/gcc/mingw32/4.7.2/include/c++
+-IC:/MinGW/lib/gcc/mingw32/4.7.2/include/c++/mingw32
